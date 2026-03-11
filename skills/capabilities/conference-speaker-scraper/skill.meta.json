@@ -1,0 +1,15 @@
+{
+  "slug": "conference-speaker-scraper",
+  "category": "capabilities",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install conference-speaker-scraper",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

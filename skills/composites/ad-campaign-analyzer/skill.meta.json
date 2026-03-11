@@ -1,0 +1,15 @@
+{
+  "slug": "ad-campaign-analyzer",
+  "category": "composites",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install ad-campaign-analyzer",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

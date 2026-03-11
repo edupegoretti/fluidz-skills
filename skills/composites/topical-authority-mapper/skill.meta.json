@@ -1,0 +1,15 @@
+{
+  "slug": "topical-authority-mapper",
+  "category": "composites",
+  "tags": [
+    "seo"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install topical-authority-mapper",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

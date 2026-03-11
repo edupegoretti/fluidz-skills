@@ -1,0 +1,15 @@
+{
+  "slug": "brand-voice-extractor",
+  "category": "capabilities",
+  "tags": [
+    "brand"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install brand-voice-extractor",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

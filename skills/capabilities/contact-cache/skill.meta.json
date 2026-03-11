@@ -1,0 +1,15 @@
+{
+  "slug": "contact-cache",
+  "category": "capabilities",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install contact-cache",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

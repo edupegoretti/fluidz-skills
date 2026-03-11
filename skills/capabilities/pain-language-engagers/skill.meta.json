@@ -1,0 +1,15 @@
+{
+  "slug": "pain-language-engagers",
+  "category": "capabilities",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install pain-language-engagers",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

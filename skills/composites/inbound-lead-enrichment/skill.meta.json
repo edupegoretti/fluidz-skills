@@ -1,0 +1,15 @@
+{
+  "slug": "inbound-lead-enrichment",
+  "category": "composites",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install inbound-lead-enrichment",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

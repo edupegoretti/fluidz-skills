@@ -1,0 +1,15 @@
+{
+  "slug": "ad-to-landing-page-auditor",
+  "category": "composites",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install ad-to-landing-page-auditor",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

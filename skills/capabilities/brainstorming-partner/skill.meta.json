@@ -1,0 +1,15 @@
+{
+  "slug": "brainstorming-partner",
+  "category": "capabilities",
+  "tags": [
+    "research"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install brainstorming-partner",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

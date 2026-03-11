@@ -1,0 +1,15 @@
+{
+  "slug": "meta-ads-campaign-builder",
+  "category": "composites",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install meta-ads-campaign-builder",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

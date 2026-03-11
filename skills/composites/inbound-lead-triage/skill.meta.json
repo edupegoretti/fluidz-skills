@@ -1,0 +1,15 @@
+{
+  "slug": "inbound-lead-triage",
+  "category": "composites",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install inbound-lead-triage",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "kol-discovery",
+  "category": "capabilities",
+  "tags": [
+    "outreach"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install kol-discovery",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "blog-scraper",
+  "category": "capabilities",
+  "tags": [
+    "content"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install blog-scraper",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

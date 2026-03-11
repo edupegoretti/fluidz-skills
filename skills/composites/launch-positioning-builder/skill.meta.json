@@ -1,0 +1,15 @@
+{
+  "slug": "launch-positioning-builder",
+  "category": "composites",
+  "tags": [
+    "brand"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install launch-positioning-builder",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "campaign-brief-generator",
+  "category": "composites",
+  "tags": [
+    "content"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install campaign-brief-generator",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

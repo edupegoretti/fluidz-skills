@@ -1,0 +1,15 @@
+{
+  "slug": "gcalcli-calendar",
+  "category": "capabilities",
+  "tags": [
+    "research"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install gcalcli-calendar",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

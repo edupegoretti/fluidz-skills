@@ -1,0 +1,15 @@
+{
+  "slug": "luma-event-attendees",
+  "category": "capabilities",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install luma-event-attendees",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

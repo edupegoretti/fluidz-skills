@@ -1,0 +1,15 @@
+{
+  "slug": "meta-ad-scraper",
+  "category": "capabilities",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install meta-ad-scraper",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

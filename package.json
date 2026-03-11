@@ -1,0 +1,34 @@
+{
+  "name": "@edupegoretti/fluidz-skills",
+  "version": "1.0.1",
+  "description": "GTM skills para Claude Code by Fluidz — instale com npx github:edupegoretti/fluidz-skills install <slug>",
+  "bin": {
+    "fluidz-skills": "./bin/fluidz-skills.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edupegoretti/fluidz-skills"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build:index": "node scripts/build-index.js",
+    "validate:skills": "node scripts/validate-skills.js",
+    "ci": "npm run validate:skills && npm run build:index && npm test"
+  },
+  "keywords": [
+    "claude-code",
+    "skills",
+    "gtm",
+    "sales",
+    "marketing",
+    "scraping"
+  ],
+  "author": "Fluidz <contato@fluidz.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.29.6"
+  }
+}

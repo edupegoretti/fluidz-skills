@@ -1,0 +1,15 @@
+{
+  "slug": "competitor-ad-teardown",
+  "category": "composites",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install competitor-ad-teardown",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

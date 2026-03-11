@@ -1,0 +1,15 @@
+{
+  "slug": "ad-spend-allocator",
+  "category": "composites",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install ad-spend-allocator",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

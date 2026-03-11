@@ -1,0 +1,15 @@
+{
+  "slug": "seo-opportunity-finder",
+  "category": "composites",
+  "tags": [
+    "seo"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install seo-opportunity-finder",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

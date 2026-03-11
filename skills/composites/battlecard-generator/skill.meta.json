@@ -1,0 +1,15 @@
+{
+  "slug": "battlecard-generator",
+  "category": "composites",
+  "tags": [
+    "competitive-intel"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install battlecard-generator",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

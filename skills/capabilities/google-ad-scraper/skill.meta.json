@@ -1,0 +1,15 @@
+{
+  "slug": "google-ad-scraper",
+  "category": "capabilities",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install google-ad-scraper",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

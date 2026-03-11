@@ -1,0 +1,15 @@
+{
+  "slug": "seo-content-audit",
+  "category": "composites",
+  "tags": [
+    "seo"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install seo-content-audit",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

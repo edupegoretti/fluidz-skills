@@ -1,0 +1,15 @@
+{
+  "slug": "sponsored-newsletter-finder",
+  "category": "composites",
+  "tags": [
+    "monitoring"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install sponsored-newsletter-finder",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

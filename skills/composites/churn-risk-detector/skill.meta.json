@@ -1,0 +1,15 @@
+{
+  "slug": "churn-risk-detector",
+  "category": "composites",
+  "tags": [
+    "research"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install churn-risk-detector",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

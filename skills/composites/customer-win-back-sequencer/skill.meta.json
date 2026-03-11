@@ -1,0 +1,15 @@
+{
+  "slug": "customer-win-back-sequencer",
+  "category": "composites",
+  "tags": [
+    "outreach"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install customer-win-back-sequencer",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

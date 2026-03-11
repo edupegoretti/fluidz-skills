@@ -1,0 +1,15 @@
+{
+  "slug": "get-qualified-leads-from-luma",
+  "category": "composites",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install get-qualified-leads-from-luma",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

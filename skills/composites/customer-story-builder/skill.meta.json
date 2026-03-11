@@ -1,0 +1,15 @@
+{
+  "slug": "customer-story-builder",
+  "category": "composites",
+  "tags": [
+    "content"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install customer-story-builder",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

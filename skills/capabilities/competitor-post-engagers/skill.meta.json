@@ -1,0 +1,15 @@
+{
+  "slug": "competitor-post-engagers",
+  "category": "capabilities",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install competitor-post-engagers",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "icp-website-review",
+  "category": "capabilities",
+  "tags": [
+    "research"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install icp-website-review",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "create-html-carousel",
+  "category": "capabilities",
+  "tags": [
+    "content"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install create-html-carousel",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

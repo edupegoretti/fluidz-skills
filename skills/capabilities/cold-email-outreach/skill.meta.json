@@ -1,0 +1,15 @@
+{
+  "slug": "cold-email-outreach",
+  "category": "capabilities",
+  "tags": [
+    "outreach"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install cold-email-outreach",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

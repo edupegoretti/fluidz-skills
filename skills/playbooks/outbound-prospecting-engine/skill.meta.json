@@ -1,0 +1,15 @@
+{
+  "slug": "outbound-prospecting-engine",
+  "category": "playbooks",
+  "tags": [
+    "outreach"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install outbound-prospecting-engine",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "competitor-intel",
+  "category": "composites",
+  "tags": [
+    "competitive-intel"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install competitor-intel",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

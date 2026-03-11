@@ -1,0 +1,15 @@
+{
+  "slug": "kol-content-monitor",
+  "category": "composites",
+  "tags": [
+    "monitoring"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install kol-content-monitor",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

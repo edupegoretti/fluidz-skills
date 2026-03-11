@@ -1,0 +1,15 @@
+{
+  "slug": "ad-angle-miner",
+  "category": "composites",
+  "tags": [
+    "ads"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install ad-angle-miner",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

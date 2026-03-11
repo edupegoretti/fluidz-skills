@@ -1,0 +1,15 @@
+{
+  "slug": "youtube-apify-transcript",
+  "category": "capabilities",
+  "tags": [
+    "research"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install youtube-apify-transcript",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

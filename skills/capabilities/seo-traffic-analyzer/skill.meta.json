@@ -1,0 +1,16 @@
+{
+  "slug": "seo-traffic-analyzer",
+  "category": "capabilities",
+  "tags": [
+    "competitive-intel",
+    "seo"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install seo-traffic-analyzer",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

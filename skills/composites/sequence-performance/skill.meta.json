@@ -1,0 +1,15 @@
+{
+  "slug": "sequence-performance",
+  "category": "composites",
+  "tags": [
+    "research"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install sequence-performance",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

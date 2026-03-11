@@ -1,0 +1,15 @@
+{
+  "slug": "visual-brand-extractor",
+  "category": "capabilities",
+  "tags": [
+    "brand"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install visual-brand-extractor",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

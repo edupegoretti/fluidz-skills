@@ -1,0 +1,15 @@
+{
+  "slug": "event-prospecting-pipeline",
+  "category": "playbooks",
+  "tags": [
+    "lead-generation"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install event-prospecting-pipeline",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

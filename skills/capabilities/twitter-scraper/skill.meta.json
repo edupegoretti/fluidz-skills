@@ -1,0 +1,15 @@
+{
+  "slug": "twitter-scraper",
+  "category": "capabilities",
+  "tags": [
+    "monitoring"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install twitter-scraper",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}

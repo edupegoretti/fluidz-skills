@@ -1,0 +1,16 @@
+{
+  "slug": "youtube-watcher",
+  "category": "capabilities",
+  "tags": [
+    "content"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install youtube-watcher",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  },
+  "author": "michael gathara"
+}

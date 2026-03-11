@@ -1,0 +1,15 @@
+{
+  "slug": "aeo-visibility-monitor",
+  "category": "composites",
+  "tags": [
+    "seo"
+  ],
+  "installation": {
+    "base_command": "npx github:edupegoretti/fluidz-skills install aeo-visibility-monitor",
+    "supports": [
+      "claude",
+      "cursor",
+      "codex"
+    ]
+  }
+}
